@@ -1,0 +1,7 @@
+package-lock.json
+yarn-error.log
+ormlogs.log
+node_modules
+.env
+yarn.lock
+requests.http
